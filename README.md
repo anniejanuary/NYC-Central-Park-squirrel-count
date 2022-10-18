@@ -2,7 +2,7 @@
 
 And on a more fun note...
 
-Based on the Central Park Squirrel Census 2019 Report (which is a real thing) in .csv, main.py generates "squirrels_count.csv" with a separate count for each fur color: gray, cinnamon (that's a red) and black.
+Based on the Central Park Squirrel Census 2019 Report (which is a real thing), main.py draws from squirrel_data.csv and generates squirrels_count.csv with a separate count for each fur color: gray, cinnamon (that's a red) and black. 
 
 Tech used:
 - Python
